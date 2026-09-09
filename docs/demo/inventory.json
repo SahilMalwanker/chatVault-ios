@@ -1,0 +1,34 @@
+[
+  {
+    "app": "WhatsApp",
+    "chat_id": 1,
+    "file_id": "960b7ffc6c33069d1c0dc4488434833f29a89fe3",
+    "sha256": "ba2d967ebf05dd313b515387e89d30a439387914d800fd69d1cc6c17389a0927",
+    "destination": "WhatsApp/Weekend-Crew--chat-1/Documents/960b7ffc6c33069d1c0dc4488434833f29a89fe3.txt",
+    "status": "copied"
+  },
+  {
+    "app": "WhatsApp",
+    "chat_id": 1,
+    "file_id": "1f228466e88d72ed6fdbbe211e11b47aea06caf9",
+    "sha256": "ba2d967ebf05dd313b515387e89d30a439387914d800fd69d1cc6c17389a0927",
+    "destination": "WhatsApp/Weekend-Crew--chat-1/Documents/1f228466e88d72ed6fdbbe211e11b47aea06caf9.txt",
+    "status": "copied"
+  },
+  {
+    "app": "WhatsApp Business",
+    "chat_id": 1,
+    "file_id": "e3729be90972c451d9233124e4d9ecec9497959c",
+    "sha256": "ba2d967ebf05dd313b515387e89d30a439387914d800fd69d1cc6c17389a0927",
+    "destination": "WhatsApp-Business/Weekend-Crew--chat-1/Documents/e3729be90972c451d9233124e4d9ecec9497959c.txt",
+    "status": "copied"
+  },
+  {
+    "app": "WhatsApp Business",
+    "chat_id": 1,
+    "file_id": "dc3a1cdaf5a898d4d4b169ce6db52618007bd661",
+    "sha256": "ba2d967ebf05dd313b515387e89d30a439387914d800fd69d1cc6c17389a0927",
+    "destination": "WhatsApp-Business/Weekend-Crew--chat-1/Documents/dc3a1cdaf5a898d4d4b169ce6db52618007bd661.txt",
+    "status": "copied"
+  }
+]

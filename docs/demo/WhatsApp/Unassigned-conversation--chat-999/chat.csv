@@ -1,0 +1,2 @@
+message_id,timestamp_utc,direction,sender,recipient,text,attachment_status,attachment_path
+7,,received,Demo participant,You,"An orphaned message is preserved, not dropped.",,

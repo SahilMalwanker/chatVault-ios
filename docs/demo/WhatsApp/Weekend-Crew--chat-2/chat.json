@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "name": "Weekend Crew",
+  "jid": "synthetic-other@g.us",
+  "messages": [
+    {
+      "id": 5,
+      "chat_id": 2,
+      "media_id": null,
+      "text": "<script>alert('escaped, not executed')</script>",
+      "sender": "You",
+      "recipient": "Demo participant",
+      "media_path": null,
+      "timestamp": "2026-05-09T06:13:24+00:00",
+      "direction": "sent"
+    }
+  ]
+}

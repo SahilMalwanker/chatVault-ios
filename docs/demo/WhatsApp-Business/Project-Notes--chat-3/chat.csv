@@ -1,0 +1,2 @@
+message_id,timestamp_utc,direction,sender,recipient,text,attachment_status,attachment_path
+6,2026-05-09T06:13:25+00:00,sent,You,Demo participant,Media record without a local file path.,no_local_path,

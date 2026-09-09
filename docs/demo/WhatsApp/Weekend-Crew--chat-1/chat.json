@@ -1,0 +1,71 @@
+{
+  "id": 1,
+  "name": "Weekend Crew",
+  "jid": "synthetic-group@g.us",
+  "messages": [
+    {
+      "id": 1,
+      "chat_id": 1,
+      "media_id": null,
+      "text": "Hello from a synthetic conversation.",
+      "sender": "Demo participant",
+      "recipient": "You",
+      "media_path": null,
+      "timestamp": "2026-05-09T06:13:20+00:00",
+      "direction": "received"
+    },
+    {
+      "id": 2,
+      "chat_id": 1,
+      "media_id": 1,
+      "text": "Here is the demo attachment.",
+      "sender": "You",
+      "recipient": "Demo participant",
+      "media_path": "Media/first.txt",
+      "timestamp": "2026-05-09T06:13:21+00:00",
+      "direction": "sent",
+      "attachment": {
+        "file_id": "960b7ffc6c33069d1c0dc4488434833f29a89fe3",
+        "status": "resolved",
+        "original_path": "Media/first.txt",
+        "category": "Documents",
+        "href": "Documents/960b7ffc6c33069d1c0dc4488434833f29a89fe3.txt"
+      }
+    },
+    {
+      "id": 3,
+      "chat_id": 1,
+      "media_id": 2,
+      "text": "Same bytes, different filename.",
+      "sender": "Demo participant",
+      "recipient": "You",
+      "media_path": "Media/second.txt",
+      "timestamp": "2026-05-09T06:13:22+00:00",
+      "direction": "received",
+      "attachment": {
+        "file_id": "1f228466e88d72ed6fdbbe211e11b47aea06caf9",
+        "status": "resolved",
+        "original_path": "Media/second.txt",
+        "category": "Documents",
+        "href": "Documents/1f228466e88d72ed6fdbbe211e11b47aea06caf9.txt"
+      }
+    },
+    {
+      "id": 4,
+      "chat_id": 1,
+      "media_id": 3,
+      "text": "This attachment was deliberately not included.",
+      "sender": "Demo participant",
+      "recipient": "You",
+      "media_path": "Media/missing.jpg",
+      "timestamp": "2026-05-09T06:13:23+00:00",
+      "direction": "received",
+      "attachment": {
+        "file_id": null,
+        "status": "path_not_indexed",
+        "original_path": "Media/missing.jpg",
+        "category": "Photos"
+      }
+    }
+  ]
+}

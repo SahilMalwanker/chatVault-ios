@@ -1,0 +1,18 @@
+{
+  "id": 999,
+  "name": "Unassigned conversation",
+  "jid": "",
+  "messages": [
+    {
+      "id": 7,
+      "chat_id": 999,
+      "media_id": null,
+      "text": "An orphaned message is preserved, not dropped.",
+      "sender": "Demo participant",
+      "recipient": "You",
+      "media_path": null,
+      "timestamp": null,
+      "direction": "received"
+    }
+  ]
+}

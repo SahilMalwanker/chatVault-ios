@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="440" viewBox="0 0 1120 440" role="img" aria-label="ChatVault converts local iPhone backups into readable WhatsApp archives">
+<rect width="1120" height="440" rx="24" fill="#111820"/>
+<g font-family="Arial,sans-serif">
+<text x="48" y="66" fill="#77dac5" font-size="18" letter-spacing="3">CHATVAULT / LOCAL-FIRST ARCHIVING</text>
+<text x="48" y="116" fill="#ecf2f5" font-size="34">Restore context. Preserve the source.</text>
+<rect x="48" y="164" width="280" height="190" rx="16" fill="#1c2732"/>
+<rect x="420" y="164" width="280" height="190" rx="16" fill="#173b3a"/>
+<rect x="792" y="164" width="280" height="190" rx="16" fill="#1c2732"/>
+<g fill="#ecf2f5" font-size="23">
+<text x="72" y="205">iPhone backup</text><text x="444" y="205">Traceable mapping</text><text x="816" y="205">Readable archive</text>
+</g>
+<g fill="#9fb2bf" font-size="17">
+<text x="72" y="249">Manifest.db</text><text x="72" y="282">ChatStorage.sqlite</text><text x="72" y="315">Hashed attachments</text>
+<text x="444" y="249">All conversations</text><text x="444" y="282">Preview and coverage</text><text x="444" y="315">Verified copying</text>
+<text x="816" y="249">HTML / JSON / CSV</text><text x="816" y="282">Per-chat media</text><text x="816" y="315">Exact duplicate audit</text>
+</g>
+<g stroke="#77dac5" stroke-width="3" fill="none"><path d="M346 258H398l-10-9m10 9-10 9"/><path d="M718 258H770l-10-9m10 9-10 9"/></g>
+<text x="48" y="400" fill="#9fb2bf" font-size="15">Offline runtime. No cloud-library comparison. No automatic deletion.</text>
+</g></svg>

@@ -1,0 +1,17 @@
+/backups/
+/archives/
+/reports/
+/output/
+/private-data/
+/demo-backup/
+/demo-archive/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.DS_Store

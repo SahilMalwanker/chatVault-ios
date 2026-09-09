@@ -1,0 +1,2 @@
+message_id,timestamp_utc,direction,sender,recipient,text,attachment_status,attachment_path
+5,2026-05-09T06:13:24+00:00,sent,You,Demo participant,"<script>alert('escaped, not executed')</script>",,

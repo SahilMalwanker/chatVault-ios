@@ -1,0 +1,51 @@
+{
+  "apps": [
+    {
+      "name": "WhatsApp",
+      "chats": 4,
+      "messages": 7,
+      "attachment_references": 4,
+      "resolved_references": 2,
+      "unique_resolved_backup_files": 2,
+      "planned_attachment_copies": 2,
+      "planned_attachment_bytes": 80,
+      "resolution_status": {
+        "resolved": 2,
+        "path_not_indexed": 1,
+        "no_local_path": 1
+      },
+      "categories_by_reference": {
+        "Documents": 2
+      }
+    },
+    {
+      "name": "WhatsApp Business",
+      "chats": 4,
+      "messages": 7,
+      "attachment_references": 4,
+      "resolved_references": 2,
+      "unique_resolved_backup_files": 2,
+      "planned_attachment_copies": 2,
+      "planned_attachment_bytes": 80,
+      "resolution_status": {
+        "resolved": 2,
+        "path_not_indexed": 1,
+        "no_local_path": 1
+      },
+      "categories_by_reference": {
+        "Documents": 2
+      }
+    }
+  ],
+  "estimated_attachment_bytes": 160,
+  "note": "Estimate excludes HTML/JSON/CSV overhead. References are not unique files.",
+  "copy_status": {
+    "copied": 4
+  },
+  "timestamps": "UTC",
+  "formats": [
+    "csv",
+    "html",
+    "json"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3,
+  "name": "Project Notes",
+  "jid": "synthetic-person@s.whatsapp.net",
+  "messages": [
+    {
+      "id": 6,
+      "chat_id": 3,
+      "media_id": 4,
+      "text": "Media record without a local file path.",
+      "sender": "You",
+      "recipient": "Demo participant",
+      "media_path": null,
+      "timestamp": "2026-05-09T06:13:25+00:00",
+      "direction": "sent",
+      "attachment": {
+        "file_id": null,
+        "status": "no_local_path",
+        "original_path": null,
+        "category": "Other"
+      }
+    }
+  ]
+}

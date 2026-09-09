@@ -1,0 +1,5 @@
+message_id,timestamp_utc,direction,sender,recipient,text,attachment_status,attachment_path
+1,2026-05-09T06:13:20+00:00,received,Demo participant,You,Hello from a synthetic conversation.,,
+2,2026-05-09T06:13:21+00:00,sent,You,Demo participant,Here is the demo attachment.,resolved,Documents/960b7ffc6c33069d1c0dc4488434833f29a89fe3.txt
+3,2026-05-09T06:13:22+00:00,received,Demo participant,You,"Same bytes, different filename.",resolved,Documents/1f228466e88d72ed6fdbbe211e11b47aea06caf9.txt
+4,2026-05-09T06:13:23+00:00,received,Demo participant,You,This attachment was deliberately not included.,path_not_indexed,
